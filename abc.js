@@ -9,3 +9,4 @@ console.log(rand(obj))
 console.log(rand({min: 955}))
 console.log(rand({}))
 console.log(rand())
+//generate rand numbers
